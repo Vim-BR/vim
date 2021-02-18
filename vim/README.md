@@ -21,7 +21,7 @@
 
 <div align="center">
     <a href="https://github.com/0-Michel-Angelo-1/dotfiles/blob/main/.vimrc">
-        <img src="https://i.ibb.co/vByyMPQ/vim-setup.png" alt="Captura de tela"/>
+        <img src="https://raw.githubusercontent.com/0-Michel-Angelo-1/dotfiles/main/vim_setup.png" alt="Captura de tela"/>
     </a>
     <br>
 </div>
