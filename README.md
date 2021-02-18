@@ -7,7 +7,7 @@
 
 <div align="center">
     Repositório destinado a reunir dotfiles da comunidade para o Vim, Neovim e Macvim.<br>
-    Seja bem-vindo e sinta-se à vontade para realizar um <a href="https://github.com/Vim-BR/neovim/blob/main/CONTRIBUTING.md">Pull Request</a>.<br>
+    Seja bem-vindo e sinta-se à vontade para realizar um <a href="https://github.com/Vim-BR/vim/blob/main/CONTRIBUTING.md">Pull Request</a>.<br>
     Acesse abaixo o editor de texto desejado.
 </div>
 
