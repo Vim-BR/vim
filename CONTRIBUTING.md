@@ -3,7 +3,7 @@
 Para adicionar seus dotfiles para o Vim, Neovim ou Macvim, é só fazer um Pull Request utilizando o template abaixo. O processo é relativamente simples, basta apenas copiar e colar o template abaixo no arquivo README.md de acordo com o editor de sua preferência.
 
 
-**Obs:** Altere o README.md corretamente de acordo com o editor que utiliza. Se quiser fazer o Pull Request dos dotfiles do Vim utilize o README.md da pasta /vim e assim sucessivamente.
+**Obs:** Altere o README.md corretamente de acordo com o editor que utiliza. Se quiser fazer o Pull Request dos dotfiles do Vim utilize o README.md da pasta vim/ e assim sucessivamente.
 
 <h3>Exemplo:</h3>
 
