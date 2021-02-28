@@ -9,8 +9,8 @@
     <a href="https://github.com/gabrielcaussi">
         <img src="https://img.shields.io/badge/usuário-gabrielcaussi-%2322252f?style=for-the-badge" alt="Perfil"/>
     </a>
-    <a href="https://github.com/tomasr/molokai">
-        <img src="https://img.shields.io/badge/tema-molokai-%2322252f?style=for-the-badge" alt="Tema"/>
+    <a href="https://github.com/morhetz/gruvbox">
+        <img src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" alt="Tema"/>
     </a>
     <a href="https://github.com/gabrielcaussi/.dotfiles/blob/main/.config/nvim/init.vim">
         <img src="https://img.shields.io/badge/dotfiles-%2322252f?style=for-the-badge" alt="Dotfiles"/>
@@ -21,7 +21,7 @@
 
 <div align="center">
     <a href="https://github.com/gabrielcaussi/.dotfiles/blob/main/.config/nvim/init.vim">
-        <img src="https://raw.githubusercontent.com/gabrielcaussi/.dotfiles/main/screenshot-1.png" alt="Captura de tela"/>
+        <img src="https://raw.githubusercontent.com/gabrielcaussi/.dotfiles/main/screenshots/nvim-gabrielcaussi.png" alt="Captura de tela"/>
     </a>
     <br>
 </div>
