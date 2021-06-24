@@ -27,3 +27,27 @@
 </div>
 
 ---
+
+<div align="center">
+    <a href="https://github.com/nandalopes">
+        <img src="https://img.shields.io/badge/usuario-nandalopes-%2322252f?style=for-the-badge" alt="Perfil"/>
+    </a>
+    <a href="https://github.com/skwp/vim-colors-solarized">
+        <img src="https://img.shields.io/badge/tema-solarized-%2322252f?style=for-the-badge" alt="Tema"/>
+    </a>
+    <a href="https://github.com/nandalopes/dotfiles-yadr">
+        <img src="https://img.shields.io/badge/dotfiles-%2322252f?style=for-the-badge" alt="Dotfiles"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/nandalopes/dotfiles-yadr/blob/main/vimrc">
+        <img src="https://i.imgur.com/k0N0n9w.png" alt="Captura de tela"/>
+    </a>
+    <br>
+</div>
+
+---
+
