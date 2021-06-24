@@ -27,3 +27,28 @@
 </div>
 
 ---
+<br>
+
+<div align="center">
+    <a href="https://github.com/vinibispo">
+        <img src="https://img.shields.io/badge/usuário-vinibispo-%2322252f?style=for-the-badge" alt="Perfil"/>
+    </a>
+    <a href="https://github.com/morhetz/gruvbox">
+        <img src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" alt="Tema"/>
+    </a>
+    <a href="https://github.com/vinibispo/dotfiles/tree/master/nvim">
+        <img src="https://img.shields.io/badge/dotfiles-%2322252f?style=for-the-badge" alt="Dotfiles"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="">
+        <img src="https://user-images.githubusercontent.com/48097622/123264098-12491e80-d4d0-11eb-94ea-f7e6074ceb20.png" alt="Captura de tela"/>
+    </a>
+    <br>
+</div>
+
+---
+
