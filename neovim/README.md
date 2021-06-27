@@ -52,3 +52,28 @@
 </div>
 
 ---
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/vibraniumdev">
+        <img src="https://img.shields.io/badge/usuário-vibraniumdev-%2322252f?style=for-the-badge" alt="Perfil"/>
+    </a>
+    <a href="https://github.com/vibraniumdev/dotfiles/tree/main/nvim-config">
+        <img src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" alt="Tema"/>
+    </a>
+    <a href="https://github.com/vibraniumdev/dotfiles#dotfiles">
+        <img src="https://img.shields.io/badge/dotfiles-%2322252f?style=for-the-badge" alt="Dotfiles"/>
+    </a>
+</div>
+<br>
+
+<div align="center">
+    <a href="https://github.com/vibraniumdev/dotfiles">
+        <img src="https://raw.githubusercontent.com/vibraniumdev/dotfiles/main/media/nvim.png" alt="Captura de tela"/>
+    </a>
+    <br>
+</div>
+
+---
+
