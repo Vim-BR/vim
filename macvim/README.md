@@ -3,7 +3,7 @@
     Dotfiles <a href="https://github.com/macvim-dev/macvim">Macvim</a>
 </h1>
 
----
+<br>
 
 <div align="center">
     <a href="https://github.com/nandalopes">
