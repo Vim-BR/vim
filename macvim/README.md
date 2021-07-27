@@ -25,7 +25,7 @@ Help is needed to test this on macOs.
 
 <div align="center">
     <a href="https://github.com/nandalopes/dotfiles/blob/main/dot_vimrc">
-        <img src="https://i.imgur.com/Q0WgIcm.png" alt="Captura de tela"/>
+        <img src="https://i.imgur.com/IhPYpNV.png" alt="Captura de tela"/>
     </a>
     <br>
 </div>
